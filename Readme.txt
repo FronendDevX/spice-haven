@@ -1,6 +1,7 @@
 # Spice Haven - Restaurant Website
 
-Spice Haven is a fully responsive and modern restaurant website designed to showcase the restaurant's menu, ambiance, and services. I built this website using **Bootstrap** and customized it extensively to create a unique and user-friendly experience.
+Spice Haven is a fully responsive and modern restaurant website designed to showcase the restaurant's menu, ambiance, and services. 
+I built this website using "Bootstrap" and customized it extensively to create a unique and user-friendly experience.
 
 
 # Features
